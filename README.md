@@ -2,15 +2,15 @@
 
 TOKO BUKU
 
-![alt text](https://github.com/anisanisah05/studikampus/blob/master/1.PNG)
+![alt text](https://github.com/anisanisah05/studikampus/blob/master/aa.PNG)
 
-![alt text](https://github.com/anisanisah05/studikampus/blob/master/2.PNG)
+![alt text](https://github.com/anisanisah05/studikampus/blob/master/bb.PNG)
 
-![alt text](https://github.com/anisanisah05/studikampus/blob/master/3.PNG)
+![alt text](https://github.com/anisanisah05/studikampus/blob/master/cc.PNG)
 
 
-![alt text](https://github.com/anisanisah05/studikampus/blob/master/4.PNG)
+![alt text](https://github.com/anisanisah05/studikampus/blob/master/dd.PNG)
 
 HASIL
 
-![alt text](https://github.com/anisanisah05/studikampus/blob/master/e.PNG)
+![alt text](https://github.com/anisanisah05/studikampus/blob/master/ee.PNG)
