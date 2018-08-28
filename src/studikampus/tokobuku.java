@@ -11,7 +11,7 @@ package studikampus;
  */
 public class tokobuku {
      public static void main (String [] args){
-        pembeli programmer1 = new pembeli("conan", 35000, "sinichi",55,"seoul",555);
+        kasir programmer1 = new kasir(5,"komik","komik detektif conan", 35000, "sinichi kudo",55,"gangnam street",01234567,"kim namjoon",88);
         programmer1.info();
 }
 }
